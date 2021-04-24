@@ -4,7 +4,7 @@
 
 > WARNING: My code is in portuguese, soon I will change to english
 
-### A bank account simulator build in Java to understand OOP
+### A bank account simulator built in Java to understand OOP
 
 ## Why
 
@@ -36,5 +36,6 @@ and we ask in wich account wants do some operation, like deposit, withdraw, tran
 until the user say that wants exit. To prevente errors like user set 3 accounts and say wants deposit some money in the 3rd
 account, of course this number doesn't exist, arrays goes from 0 to some number, in this case is 2. So to prevent that
 when is asked in which account deposit, is subtracted 1 for the number inserted.. a very simple verification.
+By default the <i>limit<i> is defined as $ 1,000 and <i>amount<i> is defined as $ 0,00.
 
 I know, is too, but i feel proud of my work and I hope soon I can improve it!! 😁
